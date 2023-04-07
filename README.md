@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @kamojeda
-- 👀 I’m interested in web development learning
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me? write me to beau.ojeda@gmail.com
+<h2> Hey there! I'm Kamila. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<!---
-kamojeda/kamojeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently working on React + Vite + JavaScript
+- 🌱 &nbsp; I’m currently learning Backend: Phyton
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
+- 💬 Ask me anything about Frontend
+- 📫 [My website:](https://linktr.ee/kamojeda)
+- ⚡ Fun fact:  I'm also a passionate photographer.
+
+<a href="https://www.linkedin.com/in/tu-nombre-de-usuario/"><img src="https://img.shields.io/badge/LinkedIn-Mi%20perfil-blue?logo=linkedin&logoColor=white&logoWidth=22"></a>
