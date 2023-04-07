@@ -10,4 +10,4 @@
 - 📫 [My website:](https://linktr.ee/kamojeda)
 - ⚡ Fun fact:  I'm also a passionate photographer.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mi%20perfil-blue?logo=linkedin&logoColor=blue&logoWidth=22)](https://www.linkedin.com/in/kamila-ojeda/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mi%20perfil-white?logo=linkedin&logoColor=white&logoWidth=22)](https://www.linkedin.com/in/kamila-ojeda/)
