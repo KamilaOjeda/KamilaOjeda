@@ -12,3 +12,6 @@
 
 [![Linkedin: LINKEDIN](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-ojeda/)](https://www.linkedin.com/in/kamila-ojeda/)
 
+[![Linkedin: kamila-ojeda](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-ojeda/&logoWidth=120&logoHeight=30)](https://www.linkedin.com/in/kamila-ojeda/)
+
+
