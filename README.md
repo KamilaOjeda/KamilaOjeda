@@ -7,11 +7,12 @@
 - 🌱 &nbsp; I’m currently learning Backend: Phyton
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 💬 Ask me anything about Frontend
-- 📫 [My website:](https://linktr.ee/kamojeda)
 - ⚡ Fun fact:  I'm also a passionate photographer.
 
-[![Linkedin: LINKEDIN](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-ojeda/)](https://www.linkedin.com/in/kamila-ojeda/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kamila-ojeda/&labelFont=Roboto&labelFontSize=18&logoH=30&logoW=30&color=0A66C2&logoWidth=30&logoHeight=40)](https://www.linkedin.com/in/kamila-ojeda/)
 
-[![Linkedin: kamila-ojeda](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-ojeda/&logoWidth=120&logoHeight=30)](https://www.linkedin.com/in/kamila-ojeda/)
+[![Linktree](https://img.shields.io/badge/Linktree-7FC996?style=for-the-badge&logo=Linktree&logoColor=white&link=https://linktr.ee/kamojeda&labelFont=Roboto&labelFontSize=18&logoH=30&logoW=30&color=7FC996&logoWidth=30&logoHeight=40)](https://linktr.ee/kamojeda)
+
+
 
 
