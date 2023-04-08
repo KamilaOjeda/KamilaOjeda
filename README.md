@@ -9,8 +9,8 @@
 - 💬 Ask me anything about Frontend
 - ⚡ Fun fact:  I'm also a passionate photographer.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kamila-ojeda/&labelFont=Roboto&labelFontSize=18&logoH=30&logoW=30&color=0A66C2&logoWidth=30&logoHeight=40)](https://www.linkedin.com/in/kamila-ojeda/)
-[![Linktree](https://img.shields.io/badge/Linktree-7FC996?style=for-the-badge&logo=Linktree&logoColor=white&link=https://linktr.ee/kamojeda&labelFont=Roboto&labelFontSize=18&logoH=30&logoW=30&color=7FC996&logoWidth=30&logoHeight=40)](https://linktr.ee/kamojeda)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamila-ojeda/)
+[![LINKTREE](https://img.shields.io/badge/LINKTREE-%2356b846.svg?&style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kamojeda)
 
 
 [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)]()
