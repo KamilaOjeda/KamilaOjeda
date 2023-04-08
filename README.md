@@ -12,10 +12,15 @@
 - 💬 Ask me anything about Frontend
 - ⚡ Fun fact:  I'm also a passionate photographer.
 
+<div align="center">
+
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamila-ojeda/)
 [![LINKTREE](https://img.shields.io/badge/LINKTREE-%2356b846.svg?&style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kamojeda)
 
+</div>
 
+<div align="center">
+  
 [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)]()
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]()
@@ -30,7 +35,7 @@
 ![FIGMA](https://img.shields.io/badge/FIGMA-6555a4?style=for-the-badge&logo=figma&logoColor=white)
 [![Adobe Photoshop](https://img.shields.io/badge/ADOBE%20PHOTOSHOP-%2300C8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white&color=1B2440)](https://www.flaticon.com/free-icon/adobe-photoshop-logo_1781?k=1680918273460&log-in=google)
 
-
+</div>
 
 
 
