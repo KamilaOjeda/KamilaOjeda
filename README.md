@@ -1,8 +1,6 @@
 <div align="center">
   
-<h2> Hey there! I'm Kamila. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-
-![Git Cat](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)
+<h2> Hey there! I'm Kamila.
 
 </div>
 
