@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently working on React + Vite + JavaScript
-- 🌱 &nbsp; I’m currently learning Backend: Phyton
+- 🌱 &nbsp; I’m currently learning Backend: Python
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 💬 Ask me anything about Frontend
 - ⚡ Fun fact:  I'm also a passionate photographer.
@@ -20,7 +20,8 @@
 </div>
 
 <div align="center">
-  
+
+<h3> 🏻‍💻🛠 Tools </h3> 
 [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)]()
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]()
