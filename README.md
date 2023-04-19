@@ -38,11 +38,3 @@
 [![LINKTREE](https://img.shields.io/badge/LINKTREE-%23B8D4BB.svg?style=for-the-badge&logo=linktree&logoColor=000000&style=border-radius:0)](https://linktr.ee/kamojeda)
 
 </div>
-
-
-
-
-
-
-
-
